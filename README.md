@@ -1,5 +1,5 @@
 # weatherApp
-This contains the creation of swiftUI pages and UI using new framework called swiftUI.<br>
+This contains the creation of swiftUI pages and UI using framework called swiftUI.<br>
 written in swiftUI.
 <br>  
 light mode<br>
